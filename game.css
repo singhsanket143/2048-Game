@@ -11,13 +11,13 @@ body{
 h2{
   font-size: 60px;
   color: green;
-  padding-left: 170px;
+  padding-left: 40%;
 }
 
 #container{
   position: fixed;
   top: 10px;
-  left: 480px;
+  left: 40%;
 }
 
 #canvas{
