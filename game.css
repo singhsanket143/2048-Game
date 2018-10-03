@@ -8,16 +8,16 @@ body{
   background-size: cover;
 }
 
-h1{
+h2{
   font-size: 60px;
-  color: red;
-  padding-left: 170px;
+  color: green;
+  padding-left: 40%;
 }
 
 #container{
   position: fixed;
   top: 10px;
-  left: 480px;
+  left: 40%;
 }
 
 #canvas{
