@@ -17,11 +17,11 @@ h1{
 #container{
   position: fixed;
   top: 10px;
-  left: 480px;
+  left: 500px;
 }
 
 #canvas{
-    background-color: burlywood;
+    background-color: black;
 }
 
 #canvas-block{
